@@ -1,0 +1,21 @@
+﻿Сборка начата 07.04.2015 12:07:12.
+     1>Проект "C:\Users\Belarus\Desktop\L53\L53\L53.vcxproj" в узле 2 (целевые объекты Build).
+       Файл проекта содержит ToolsVersion="12.0". Возможно, этот набор инструментов неизвестен или отсутствует (в этом случае проблему можно устранить, установив подходящую версию MSBuild), либо для данной сборки определено конкретное значение ToolsVersion в параметрах политики. Проект обрабатывается как имеющий ToolsVersion="4.0". Дополнительные сведения см. по ссылке http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>InitializeBuildStatus:
+         Создание "Debug\L53.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\L53.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt L53.cpp
+         L53.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Belarus\Desktop\L53\Debug\L53.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Belarus\Desktop\L53\Debug\L53.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Belarus\Desktop\L53\Debug\L53.lib" /MACHINE:X86 Debug\L53.obj
+         Debug\stdafx.obj
+         L53.vcxproj -> C:\Users\Belarus\Desktop\L53\Debug\L53.exe
+       FinalizeBuildStatus:
+         Файл "Debug\L53.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\L53.lastbuildstate".
+     1>Построение проекта "C:\Users\Belarus\Desktop\L53\L53\L53.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.99
